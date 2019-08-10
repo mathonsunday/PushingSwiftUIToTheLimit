@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Document version="2.0">
+	<VersionNumber>-1</VersionNumber>
+	<Modified>1</Modified>
+	<Ext>(null)</Ext>
+	<Properties className="DMDocument">
+		<isExpanded className="__NSCFNumber">1</isExpanded>
+		<isGroup className="__NSCFNumber">0</isGroup>
+		<title className="__NSCFString">SwiftTO  Talk</title>
+		<password className="__NSCFConstantString">(null)</password>
+		<markColor className="__NSCFNumber">0</markColor>
+		<note className="__NSCFConstantString">(null)</note>
+		<context className="DMDocumentInnerObject">
+			<isExpanded className="__NSCFNumber">1</isExpanded>
+			<isGroup className="__NSCFNumber">1</isGroup>
+			<title className="__NSCFConstantString">Group</title>
+			<completionState className="__NSCFNumber">0</completionState>
+			<color className="__NSCFNumber">0</color>
+			<fontStyle className="__NSCFNumber">0</fontStyle>
+			<ID>FFC74BCE-4514-4F2A-B935-08B6779BF724</ID>
+			<ChildItems>
+				<ID>9F673A43-C3E5-4E62-AAA1-AFA355A9898D</ID>
+				<ID>F986DBFB-CBC6-49BF-888F-A8FE3C328D8C</ID>
+				<ID>039845B2-FBFC-4150-9AAE-6D4D73AE98B4</ID>
+				<ID>174F74EA-9748-4D1E-B8C8-151C25793A10</ID>
+				<ID>AED53851-0880-4CCD-9DA1-1A41EC12A7A7</ID>
+				<ID>C8E19751-7C2D-479E-8439-571A2F4FEBE4</ID>
+				<ID>7111D74A-AA62-4341-9BB7-1CCC1AB318A7</ID>
+				<ID>39A148A7-2740-41A0-90AF-D2DBCD892869</ID>
+			</ChildItems>
+			<ChildItem className="DMDocumentInnerObject">
+				<isExpanded className="__NSCFNumber">1</isExpanded>
+				<isGroup className="__NSCFNumber">1</isGroup>
+				<title className="__NSCFString">Simplify original code so there&apos;s less to convert</title>
+				<completionState className="__NSCFNumber">0</completionState>
+				<color className="__NSCFNumber">0</color>
+				<fontStyle className="__NSCFNumber">0</fontStyle>
+				<ID>9F673A43-C3E5-4E62-AAA1-AFA355A9898D</ID>
+				<ChildItems />
+			</ChildItem>
+			<ChildItem className="DMDocumentInnerObject">
+				<isExpanded className="__NSCFNumber">1</isExpanded>
+				<isGroup className="__NSCFNumber">1</isGroup>
+				<title className="__NSCFString">Do similar demo with native UI slider</title>
+				<completionState className="__NSCFNumber">0</completionState>
+				<color className="__NSCFNumber">0</color>
+				<fontStyle className="__NSCFNumber">0</fontStyle>
+				<ID>F986DBFB-CBC6-49BF-888F-A8FE3C328D8C</ID>
+				<ChildItems />
+			</ChildItem>
+			<ChildItem className="DMDocumentInnerObject">
+				<isExpanded className="__NSCFNumber">1</isExpanded>
+				<isGroup className="__NSCFNumber">1</isGroup>
+				<title className="__NSCFString">Do simple demo with gestures</title>
+				<completionState className="__NSCFNumber">0</completionState>
+				<color className="__NSCFNumber">0</color>
+				<fontStyle className="__NSCFNumber">0</fontStyle>
+				<ID>039845B2-FBFC-4150-9AAE-6D4D73AE98B4</ID>
+				<ChildItems />
+			</ChildItem>
+			<ChildItem className="DMDocumentInnerObject">
+				<isExpanded className="__NSCFNumber">1</isExpanded>
+				<isGroup className="__NSCFNumber">1</isGroup>
+				<title className="__NSCFString">Improve conceptual understanding of SwiftUI https://www.cocoawithlove.com/blog/swiftui.html</title>
+				<completionState className="__NSCFNumber">0</completionState>
+				<color className="__NSCFNumber">0</color>
+				<fontStyle className="__NSCFNumber">0</fontStyle>
+				<ID>174F74EA-9748-4D1E-B8C8-151C25793A10</ID>
+				<ChildItems>
+					<ID>5022BAA1-2CA1-446C-936D-7BDE350E4AED</ID>
+				</ChildItems>
+				<ChildItem className="DMDocumentInnerObject">
+					<isExpanded className="__NSCFNumber">1</isExpanded>
+					<isGroup className="__NSCFNumber">1</isGroup>
+					<title className="__NSCFString">When learning new paradigm often get stuck in &quot;How do I do X in Y framework&quot; In a new paradigm, sometimes X no longer exists</title>
+					<completionState className="__NSCFNumber">0</completionState>
+					<color className="__NSCFNumber">0</color>
+					<fontStyle className="__NSCFNumber">0</fontStyle>
+					<ID>5022BAA1-2CA1-446C-936D-7BDE350E4AED</ID>
+					<ChildItems />
+				</ChildItem>
+			</ChildItem>
+			<ChildItem className="DMDocumentInnerObject">
+				<isExpanded className="__NSCFNumber">1</isExpanded>
+				<isGroup className="__NSCFNumber">1</isGroup>
+				<title className="__NSCFString">Create double handle slider with no gestures</title>
+				<completionState className="__NSCFNumber">0</completionState>
+				<color className="__NSCFNumber">0</color>
+				<fontStyle className="__NSCFNumber">0</fontStyle>
+				<ID>AED53851-0880-4CCD-9DA1-1A41EC12A7A7</ID>
+				<ChildItems>
+					<ID>CD274E2A-A802-46F9-8EC4-171DC6C5C084</ID>
+				</ChildItems>
+				<ChildItem className="DMDocumentInnerObject">
+					<isExpanded className="__NSCFNumber">1</isExpanded>
+					<isGroup className="__NSCFNumber">1</isGroup>
+					<title className="__NSCFString">Everything in SwiftUI is a View now, there&apos;s no UIKit and Core Graphics separation https://developer.apple.com/videos/play/wwdc2019/237/</title>
+					<completionState className="__NSCFNumber">0</completionState>
+					<color className="__NSCFNumber">0</color>
+					<fontStyle className="__NSCFNumber">0</fontStyle>
+					<ID>CD274E2A-A802-46F9-8EC4-171DC6C5C084</ID>
+					<ChildItems />
+				</ChildItem>
+			</ChildItem>
+			<ChildItem className="DMDocumentInnerObject">
+				<isExpanded className="__NSCFNumber">1</isExpanded>
+				<isGroup className="__NSCFNumber">1</isGroup>
+				<title className="__NSCFString">Add drag gesture</title>
+				<completionState className="__NSCFNumber">0</completionState>
+				<color className="__NSCFNumber">0</color>
+				<fontStyle className="__NSCFNumber">0</fontStyle>
+				<ID>C8E19751-7C2D-479E-8439-571A2F4FEBE4</ID>
+				<ChildItems>
+					<ID>6E5356A5-9407-40A9-8DB4-C1202B7973B5</ID>
+					<ID>4180CA87-B586-4636-B03A-0A78293DFA57</ID>
+				</ChildItems>
+				<ChildItem className="DMDocumentInnerObject">
+					<isExpanded className="__NSCFNumber">1</isExpanded>
+					<isGroup className="__NSCFNumber">1</isGroup>
+					<title className="__NSCFString">There&apos;s no UIControl. There&apos;s no begin/continue/endTracking funcs to override</title>
+					<completionState className="__NSCFNumber">0</completionState>
+					<color className="__NSCFNumber">0</color>
+					<fontStyle className="__NSCFNumber">0</fontStyle>
+					<ID>6E5356A5-9407-40A9-8DB4-C1202B7973B5</ID>
+					<ChildItems />
+				</ChildItem>
+				<ChildItem className="DMDocumentInnerObject">
+					<isExpanded className="__NSCFNumber">1</isExpanded>
+					<isGroup className="__NSCFNumber">1</isGroup>
+					<title className="__NSCFString">Set zPositions of handles to make sure they&apos;re in front of the line</title>
+					<completionState className="__NSCFNumber">0</completionState>
+					<color className="__NSCFNumber">0</color>
+					<fontStyle className="__NSCFNumber">0</fontStyle>
+					<ID>4180CA87-B586-4636-B03A-0A78293DFA57</ID>
+					<ChildItems />
+				</ChildItem>
+			</ChildItem>
+			<ChildItem className="DMDocumentInnerObject">
+				<isExpanded className="__NSCFNumber">1</isExpanded>
+				<isGroup className="__NSCFNumber">1</isGroup>
+				<title className="__NSCFString">Improve UI</title>
+				<completionState className="__NSCFNumber">0</completionState>
+				<color className="__NSCFNumber">0</color>
+				<fontStyle className="__NSCFNumber">0</fontStyle>
+				<ID>7111D74A-AA62-4341-9BB7-1CCC1AB318A7</ID>
+				<ChildItems>
+					<ID>67067847-818C-4BE7-9606-E283F55072B0</ID>
+					<ID>EA78FA5C-5DE9-4F04-94A3-AD04D88A1A1F</ID>
+				</ChildItems>
+				<ChildItem className="DMDocumentInnerObject">
+					<isExpanded className="__NSCFNumber">1</isExpanded>
+					<isGroup className="__NSCFNumber">1</isGroup>
+					<title className="__NSCFString">Change minimumDistance of the gestures from 10 to 1</title>
+					<completionState className="__NSCFNumber">0</completionState>
+					<color className="__NSCFNumber">0</color>
+					<fontStyle className="__NSCFNumber">0</fontStyle>
+					<ID>67067847-818C-4BE7-9606-E283F55072B0</ID>
+					<ChildItems />
+				</ChildItem>
+				<ChildItem className="DMDocumentInnerObject">
+					<isExpanded className="__NSCFNumber">1</isExpanded>
+					<isGroup className="__NSCFNumber">1</isGroup>
+					<title className="__NSCFString">Guard against touch location to make sure handles are always on the line</title>
+					<completionState className="__NSCFNumber">0</completionState>
+					<color className="__NSCFNumber">0</color>
+					<fontStyle className="__NSCFNumber">0</fontStyle>
+					<ID>EA78FA5C-5DE9-4F04-94A3-AD04D88A1A1F</ID>
+					<ChildItems />
+				</ChildItem>
+			</ChildItem>
+			<ChildItem className="DMDocumentInnerObject">
+				<isExpanded className="__NSCFNumber">1</isExpanded>
+				<isGroup className="__NSCFNumber">1</isGroup>
+				<title className="__NSCFString">UI Debugging in SwiftUI seems less feature rich</title>
+				<completionState className="__NSCFNumber">0</completionState>
+				<color className="__NSCFNumber">0</color>
+				<fontStyle className="__NSCFNumber">0</fontStyle>
+				<ID>39A148A7-2740-41A0-90AF-D2DBCD892869</ID>
+				<ChildItems />
+			</ChildItem>
+		</context>
+		<fontSize className="__NSCFNumber">18</fontSize>
+		<defaultFontStyle className="__NSCFNumber">0</defaultFontStyle>
+		<defaultColor className="__NSCFNumber">0</defaultColor>
+		<numerationStyle className="__NSCFNumber">0</numerationStyle>
+		<lastModificationTime className="__NSCFNumber">1562430585.500345</lastModificationTime>
+		<showCheckBox className="__NSCFNumber">1</showCheckBox>
+		<hideCheckedEnements className="__NSCFNumber">0</hideCheckedEnements>
+		<hideUncheckedEnements className="__NSCFNumber">0</hideUncheckedEnements>
+		<resizebleLineForTextSize className="__NSCFNumber">0</resizebleLineForTextSize>
+		<showNotesOnlyForSelectedRow className="__NSCFNumber">0</showNotesOnlyForSelectedRow>
+		<readOnly className="__NSCFNumber">0</readOnly>
+		<ID>D968DF75-7CB6-447D-9C6C-8EEE73E67F8C</ID>
+		<ChildItems />
+	</Properties>
+	<BaseVersion>
+		<VersionNumber>-1</VersionNumber>
+		<Modified>1</Modified>
+		<Ext>(null)</Ext>
+		<Properties className="DMDocument">
+			<isExpanded className="__NSCFNumber">1</isExpanded>
+			<isGroup className="__NSCFNumber">0</isGroup>
+			<title className="NSTaggedPointerString">Outline</title>
+			<password className="__NSCFConstantString">(null)</password>
+			<markColor className="__NSCFNumber">0</markColor>
+			<note className="__NSCFConstantString">(null)</note>
+			<context className="DMDocumentInnerObject">
+				<isExpanded className="__NSCFNumber">1</isExpanded>
+				<isGroup className="__NSCFNumber">1</isGroup>
+				<title className="NSTaggedPointerString">Group</title>
+				<completionState className="__NSCFNumber">0</completionState>
+				<color className="__NSCFNumber">0</color>
+				<fontStyle className="__NSCFNumber">0</fontStyle>
+				<ID>FFC74BCE-4514-4F2A-B935-08B6779BF724</ID>
+				<ChildItems>
+					<ID>9F673A43-C3E5-4E62-AAA1-AFA355A9898D</ID>
+				</ChildItems>
+				<ChildItem className="DMDocumentInnerObject">
+					<isExpanded className="__NSCFNumber">1</isExpanded>
+					<isGroup className="__NSCFNumber">1</isGroup>
+					<title className="__NSCFConstantString">(null)</title>
+					<completionState className="__NSCFNumber">0</completionState>
+					<color className="__NSCFNumber">0</color>
+					<fontStyle className="__NSCFNumber">0</fontStyle>
+					<ID>9F673A43-C3E5-4E62-AAA1-AFA355A9898D</ID>
+					<ChildItems />
+				</ChildItem>
+			</context>
+			<fontSize className="__NSCFNumber">18</fontSize>
+			<defaultFontStyle className="__NSCFNumber">0</defaultFontStyle>
+			<defaultColor className="__NSCFNumber">0</defaultColor>
+			<numerationStyle className="__NSCFNumber">0</numerationStyle>
+			<lastModificationTime className="__NSCFNumber">1562428955.561424</lastModificationTime>
+			<showCheckBox className="__NSCFNumber">1</showCheckBox>
+			<hideCheckedEnements className="__NSCFNumber">0</hideCheckedEnements>
+			<hideUncheckedEnements className="__NSCFNumber">0</hideUncheckedEnements>
+			<resizebleLineForTextSize className="__NSCFNumber">0</resizebleLineForTextSize>
+			<showNotesOnlyForSelectedRow className="__NSCFNumber">0</showNotesOnlyForSelectedRow>
+			<readOnly className="__NSCFNumber">0</readOnly>
+			<ID>D968DF75-7CB6-447D-9C6C-8EEE73E67F8C</ID>
+			<ChildItems />
+		</Properties>
+	</BaseVersion>
+</Document>
