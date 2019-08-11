@@ -15,6 +15,8 @@
 		E73E996E22C044D400FB2B62 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E73E996C22C044D400FB2B62 /* LaunchScreen.storyboard */; };
 		E73E997922C044D400FB2B62 /* SwiftUIDoubleSliderTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E73E997822C044D400FB2B62 /* SwiftUIDoubleSliderTests.swift */; };
 		E73E998422C044D400FB2B62 /* SwiftUIDoubleSliderUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E73E998322C044D400FB2B62 /* SwiftUIDoubleSliderUITests.swift */; };
+		E7577EBA22FF4A0C00844888 /* RangeType.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7577EB922FF4A0C00844888 /* RangeType.swift */; };
+		E7577EBC22FF4B2000844888 /* NumberFormatterExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7577EBB22FF4B2000844888 /* NumberFormatterExtensions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		E73E997F22C044D400FB2B62 /* SwiftUIDoubleSliderUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftUIDoubleSliderUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E73E998322C044D400FB2B62 /* SwiftUIDoubleSliderUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIDoubleSliderUITests.swift; sourceTree = "<group>"; };
 		E73E998522C044D400FB2B62 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E7577EB922FF4A0C00844888 /* RangeType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RangeType.swift; sourceTree = "<group>"; };
+		E7577EBB22FF4B2000844888 /* NumberFormatterExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberFormatterExtensions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +110,8 @@
 				E73E996C22C044D400FB2B62 /* LaunchScreen.storyboard */,
 				E73E996F22C044D400FB2B62 /* Info.plist */,
 				E73E996922C044D400FB2B62 /* Preview Content */,
+				E7577EB922FF4A0C00844888 /* RangeType.swift */,
+				E7577EBB22FF4B2000844888 /* NumberFormatterExtensions.swift */,
 			);
 			path = SwiftUIDoubleSlider;
 			sourceTree = "<group>";
@@ -267,7 +273,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E7577EBC22FF4B2000844888 /* NumberFormatterExtensions.swift in Sources */,
 				E73E996222C044D200FB2B62 /* AppDelegate.swift in Sources */,
+				E7577EBA22FF4A0C00844888 /* RangeType.swift in Sources */,
 				E73E996422C044D200FB2B62 /* SceneDelegate.swift in Sources */,
 				E73E996622C044D200FB2B62 /* ContentView.swift in Sources */,
 			);
